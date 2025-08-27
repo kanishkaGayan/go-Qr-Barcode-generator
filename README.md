@@ -12,11 +12,11 @@ A simple desktop application built with Go and Fyne that generates QR codes and 
 
 ## Screenshots
 
-![]
+
 <img width="789" height="696" alt="Screenshot from 2025-08-27 18-55-01" src="https://github.com/user-attachments/assets/c4f2ce5b-bd9e-4215-a560-b65de5b4c0a7" />
-![]
+
 <img width="789" height="696" alt="Screenshot from 2025-08-27 18-55-09" src="https://github.com/user-attachments/assets/6179e472-9405-48f5-ab10-924dfae86cb6" />
-![]
+
 <img width="789" height="696" alt="Screenshot from 2025-08-27 18-55-17" src="https://github.com/user-attachments/assets/8316ba30-2965-471d-bbec-2c203f4149cc" />
 
 ## Installation
