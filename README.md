@@ -24,7 +24,6 @@ A simple desktop application built with Go and Fyne that generates QR codes and 
 1. Clone the repository:
 ```bash
 git clone https://github.com/kanishkaGayan/go-Qr-Barcode-generator.git
-cd go-Qr-Barcode-generator
 ```
 
 2. Install dependencies:
